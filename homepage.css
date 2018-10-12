@@ -1,0 +1,75 @@
+.me {
+  border-radius: 50%;
+  width: 20%;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2vw;
+}
+
+h2{
+  font-family: 'Righteous', cursive;
+  font-size: 4vw;
+  margin: 1vw;
+  text-align: center;
+  color: #009DDC;
+}
+
+h1{
+  font-family: 'Righteous', cursive;
+  font-size: 5vw;
+  position: relative;
+  margin: 1vw;
+}
+
+
+#bio{
+  text-align: center;
+  max-height: 60%;
+  overflow: auto;
+  padding: 1%;
+  background-color: #E6E7ED;
+  color:  #2C363F;
+}
+
+.background{
+  height:100%;
+}
+
+#title{
+  text-align: center;
+  height:auto;
+  vertical-align: middle;
+  color: #F4827F;
+}
+
+
+
+body{
+  margin: auto;
+  position: fixed;
+  height: 100%;
+  background-color: #586F7C;
+}
+
+
+#taskbar{
+  font-family:'Righteous', cursive;
+  font-size: 2vw;
+  text-decoration: none;
+  height: auto;
+  padding: 1%;
+  background-color: #2C363F;
+  color: #009DDC;
+}
+
+a{
+  text-decoration: none;
+  color: #009DDC;
+}
+
+
+a:visited{
+  color: #009DDC;
+}
