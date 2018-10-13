@@ -27,7 +27,6 @@ h1{
 #bio{
   text-align: center;
   height: auto;
-  
   padding: 1%;
   background-color: #E6E7ED;
   color:  #2C363F;
@@ -48,10 +47,8 @@ h1{
 
 body{
   margin: auto;
-  position: fixed;
   height: 100%;
   background-color: #586F7C;
-  overflow: auto;
 }
 
 
