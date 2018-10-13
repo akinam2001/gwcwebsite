@@ -1,0 +1,81 @@
+
+body{
+  margin: auto;
+  height: 100%;
+  background-color: #E6E7ED;
+}
+
+#taskbar{
+  font-family:'Righteous', cursive;
+  font-size: 2vw;
+  text-decoration: none;
+  height: auto;
+  padding: 1%;
+  background-color: #2C363F;
+  color: #009DDC;
+  padding: none;
+  margin: none;
+}
+
+a{
+  text-decoration: none;
+  color: #009DDC;
+}
+
+
+a:visited{
+  color: #009DDC;
+}
+
+#title{
+  text-align: center;
+  height:auto;
+  vertical-align: middle;
+  color: #F4827F;
+  padding: 0.5vw;
+  background-color: #586F7C;
+}
+
+h2{
+  font-family: 'Righteous', cursive;
+  font-size: 4vw;
+  margin: 1vw;
+  text-align: center;
+  color: #009DDC;
+}
+
+h1{
+  font-family: "Righteous", cursive;
+  font-size: 5vw;
+  position: relative;
+  margin: 1vw;
+}
+
+#background{
+  background-color: inherit;
+  height: auto;
+  text-align: center;
+}
+
+
+
+#gallery{
+  width:100%;
+}
+
+#container{
+  width: 29.2%;
+  padding: 2%;
+  float: left;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2vw;
+
+}
+
+
+.image{
+  width: 100%;
+  margin-bottom: 2%;
+  float: left;
+}
