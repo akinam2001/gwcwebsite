@@ -26,7 +26,7 @@ h1{
 
 #bio{
   text-align: center;
-  height: auto;
+  height: 60vw;
   padding: 1%;
   background-color: #E6E7ED;
   color:  #2C363F;
@@ -47,6 +47,7 @@ h1{
 
 body{
   margin: auto;
+  
   height: 100%;
   background-color: #586F7C;
 }
